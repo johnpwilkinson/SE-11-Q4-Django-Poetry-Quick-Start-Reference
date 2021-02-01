@@ -23,7 +23,7 @@ Install Poetry Project
    
 Launch Poetry Shell to configure New Django Project
 
-    $ poetry install
+    $ poetry shell
 With Django Installed, create Django Project HERE and then you will have access to the manage.py module. **Remember the ' . '** 
 
     $ django-admin startproject <NameOfProject> . 
